@@ -4,7 +4,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljb1905)](https://solved.ac/ljb1905)
 
 
-### 📫 How to reach me: 
+### 📫 How to reach me
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ljb1905.github.io/)](https://ljb1905.github.io/)
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005243164036)](https://www.facebook.com/profile.php?id=100005243164036)	
